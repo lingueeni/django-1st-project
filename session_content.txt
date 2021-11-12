@@ -1,0 +1,11 @@
+- ForeignKey (relation between post and user)
+- Form
+- ModelForm
+- Form Errors
+
+1. make form at forms.py
+2. use form in the view
+3. return form in the html
+
+
+# return form errors
